@@ -1,6 +1,6 @@
 # 🤖 Polymarket AI Scalper
 
-An autonomous trading bot for [Polymarket](https://polymarket.com) prediction markets, powered by Anthropic's Claude API.
+Proof of concept — An autonomous trading bot for [Polymarket](https://polymarket.com) prediction markets, powered by Anthropic's Claude API.
 
 The bot analyzes short-term prediction markets (resolving in minutes to hours), identifies mispricings using AI reasoning, and executes trades automatically via Polymarket's CLOB API.
 
